@@ -1,5 +1,7 @@
 # PyCleaner
 
+A Simple Data Cleaning Tool written in Python to modify .csv files
+
 1. Enter File Name
 ![Image Alt Text](https://raw.githubusercontent.com/AhmedShaikh0/PyCleaner/main/1.png)
 
