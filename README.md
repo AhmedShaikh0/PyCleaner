@@ -1,3 +1,3 @@
 # PyCleaner
 
-(https://github.com/AhmedShaikh0/PyCleaner/blob/main/1.png?raw=true)
+![Image Alt Text](https://raw.githubusercontent.com/AhmedShaikh0/PyCleaner/main/1.png)
