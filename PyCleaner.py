@@ -18,10 +18,11 @@ while True:
     print("5. Read Last 5 Rows")
     print("6. Read Particular Row")
     print("7. Modify Particular Record")
-    print("8. Export Cleaned CSV File")
-    print("9. Exit Program")
+    print("8. Get Dimensions of dataframe")
+    print("9. Export Cleaned CSV File")
+    print("10. Exit Program")
     
-    choice = input("Enter your choice (1/2/3/4/5/6/7/8/9): ")
+    choice = input("Enter your choice (1/2/3/4/5/6/7/8/9/10): ")
 
     if choice == "1":
         data.info()
@@ -58,13 +59,17 @@ while True:
 
         print(data)
 
-    elif choice == "8":
+    elif choice == '8':
+
+        print(data.shape)
+
+    elif choice == "9":
         exp_file = input("Enter File Name to Export (Must Include .csv) in End: ")
         data.to_csv(exp_file, index=False)
         print(Fore.YELLOW, exp_file," Successfully Exported.")
 
-    elif choice == '9':
+    elif choice == '10':
         print("Exiting the program")
         break
     else:
-        print("Invalid choice. Please select a valid option (1/2/3/4/5/6/7/8/9).")
+        print("Invalid choice. Please select a valid option (1/2/3/4/5/6/7/8/9/10).")
