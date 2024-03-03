@@ -54,10 +54,10 @@ while True:
         row_index = int(input("Enter Row number: "))  
         column_name = cn = input("Enter column name: ")  
         new_value = input("Set New Value: ")
-        
         data.at[row_index, column_name] = new_value
 
-        print(data)
+        print("Record Modified Successfully")
+        print(data.iloc[row_index])
 
     elif choice == '8':
 
