@@ -8,19 +8,19 @@ Learn the usage by reading PyCleaner.ipynb in Jupyter Notebook or Images below
 
 <h2>Instructions</h2>
 
-1. Enter File Name
+<b>1. Enter File Name</b>
 ![Image Alt Text](https://raw.githubusercontent.com/AhmedShaikh0/PyCleaner/main/1.png)
 
-Read File Data <br>
+<b>Read File Data</b> <br>
 ![Image Alt Text](https://raw.githubusercontent.com/AhmedShaikh0/PyCleaner/main/2.png)
 
-Modify a Particular Record <br>
+<b>Modify a Particular Record</b> <br>
 ![Image Alt Text](https://raw.githubusercontent.com/AhmedShaikh0/PyCleaner/main/3.png)
 
-Record Modified Successfully <br>
+<b>Record Modified Successfully</b> <br>
 ![Image Alt Text](https://raw.githubusercontent.com/AhmedShaikh0/PyCleaner/main/4.png)
 
-Export Modified File <br>
+<b>Export Modified File</b> <br>
 ![Image Alt Text](https://raw.githubusercontent.com/AhmedShaikh0/PyCleaner/main/5.png)
 
 
