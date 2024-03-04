@@ -14,13 +14,13 @@ Learn the usage by reading PyCleaner.ipynb in Jupyter Notebook or Images below
 <b>Read File Data</b> <br>
 ![Image Alt Text](https://raw.githubusercontent.com/AhmedShaikh0/PyCleaner/main/2.png)
 
-<b>Modify a Particular Record</b> <br>
+<b>2. Modify a Particular Record</b> <br>
 ![Image Alt Text](https://raw.githubusercontent.com/AhmedShaikh0/PyCleaner/main/3.png)
 
 <b>Record Modified Successfully</b> <br>
 ![Image Alt Text](https://raw.githubusercontent.com/AhmedShaikh0/PyCleaner/main/4.png)
 
-<b>Export Modified File</b> <br>
+<b>3. Export Modified File</b> <br>
 ![Image Alt Text](https://raw.githubusercontent.com/AhmedShaikh0/PyCleaner/main/5.png)
 
 
