@@ -4,7 +4,7 @@ A Simple Data Cleaning Tool written in Python to modify .csv files
 
 Note: It is recommended to use this tool in a Framework like Jupyter Notebook or PyCharm, as Terminal has less memory, so if CSV has large number of columns, the terminal will skip some of them.
 
-Learn the usage by reading PyCleaner.ipynb in Jupyter Notebook or Images below
+Learn the usage by reading PyCleaner.ipynb in Jupyter Notebook or Instructions below
 
 <h2>Instructions</h2>
 
