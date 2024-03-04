@@ -2,6 +2,8 @@
 
 A Simple Data Cleaning Tool written in Python to modify .csv files
 
+Note: It is recommended to use this tool in a Framework like Jupyter Notebook or PyCharm, as Terminal has less memory, so if CSV has large number of columns, the terminal will skip some of them.
+
 1. Enter File Name
 ![Image Alt Text](https://raw.githubusercontent.com/AhmedShaikh0/PyCleaner/main/1.png)
 
